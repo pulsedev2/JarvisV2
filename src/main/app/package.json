@@ -1,0 +1,18 @@
+{
+  "name": "jarvisv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "authors": [
+    "RenardFute",
+    "Niout"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  }
+}
